@@ -1,4 +1,4 @@
-The Apps Project Learning Objectives:
+# The Apps Project Learning Objectives:
 
 Solve a real business problem with data, computational thinking, and statistics Practice using data science tools to analyze and visualize data Learn how to present the insights you've drawn from your analyzed data In this unit, you’ll get a chance to practice your data science and statistical skills by working with real-world datasets sourced from the definitive social medium for data scientists: Kaggle. Kaggle is a wonderful platform for data scientists to share datasets, challenges, and solutions. You'll use these datasets to work through each step of the data science pipeline to complete the Apps Project.
 
