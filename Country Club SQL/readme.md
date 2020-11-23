@@ -1,4 +1,7 @@
+Country Club SQL Case Study
+
 Overview
+
 Welcome to the SQL mini project. You will carry out this project partly in the PHPMyAdmin interface, and partly in Jupyter via a Python connection.
 
 The data you need is in the "country_club" database. This database contains 3 tables:
