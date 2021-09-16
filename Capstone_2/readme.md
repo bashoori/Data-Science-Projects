@@ -1,5 +1,5 @@
 
-# Predicting hospital length-of-stay at time of admission
+# Predicting hospital length-of-stay at the time of admission
 
 In order for hospitals to optimize resource allocation, it is important to predict accurately how long a newly admitted patient will stay in the hospital.
 
